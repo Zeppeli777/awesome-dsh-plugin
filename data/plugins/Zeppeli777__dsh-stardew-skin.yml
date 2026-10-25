@@ -1,5 +1,5 @@
-url: https://github.com/Zeppeli777/dsh-stardew-skin/tree/main
-name: Zeppeli777/dsh-stardew-skin#main
+url: https://github.com/Zeppeli777/dsh-stardew-skin
+name: Zeppeli777/dsh-stardew-skin
 category: theme
 description:
   en: 'Stardew Valley theme (component-override edition): an official-mechanism client theme that stacks a cream-paper alias-token layer, stitched pixel font and valley wallpaper over the intact official React UI. npm: dsh-theme-stardew-valley.'
